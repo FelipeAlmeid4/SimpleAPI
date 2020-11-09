@@ -1,0 +1,17 @@
+C:\Users\felip\source\repos\SimpleAPI\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+C:\Users\felip\source\repos\SimpleAPI\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\felip\source\repos\SimpleAPI\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\felip\source\repos\SimpleAPI\Infrastructure\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\felip\source\repos\SimpleAPI\Infrastructure\bin\Debug\netcoreapp3.1\SimpleAPI.Framework.dll
+C:\Users\felip\source\repos\SimpleAPI\Infrastructure\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\felip\source\repos\SimpleAPI\Infrastructure\bin\Debug\netcoreapp3.1\SimpleAPI.Framework.pdb
+C:\Users\felip\source\repos\SimpleAPI\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+C:\Users\felip\source\repos\SimpleAPI\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\felip\source\repos\SimpleAPI\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Users\felip\source\repos\SimpleAPI\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\SimpleAPI\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+C:\Users\felip\source\repos\SimpleAPI\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\felip\source\repos\SimpleAPI\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\felip\source\repos\SimpleAPI\Infrastructure\bin\Debug\netcoreapp3.1\SimpleAPI.WebFramework.dll
+C:\Users\felip\source\repos\SimpleAPI\Infrastructure\bin\Debug\netcoreapp3.1\SimpleAPI.WebFramework.pdb
+C:\Users\felip\source\repos\SimpleAPI\Infrastructure\bin\Debug\netcoreapp3.1\Properties\launchSettings.json

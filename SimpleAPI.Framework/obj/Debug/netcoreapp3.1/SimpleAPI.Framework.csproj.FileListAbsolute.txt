@@ -1,0 +1,9 @@
+C:\Users\felip\source\repos\SimpleAPI\SimpleAPI.Framework\bin\Debug\netcoreapp3.1\SimpleAPI.Framework.deps.json
+C:\Users\felip\source\repos\SimpleAPI\SimpleAPI.Framework\bin\Debug\netcoreapp3.1\SimpleAPI.Framework.dll
+C:\Users\felip\source\repos\SimpleAPI\SimpleAPI.Framework\bin\Debug\netcoreapp3.1\SimpleAPI.Framework.pdb
+C:\Users\felip\source\repos\SimpleAPI\SimpleAPI.Framework\obj\Debug\netcoreapp3.1\SimpleAPI.Framework.csprojAssemblyReference.cache
+C:\Users\felip\source\repos\SimpleAPI\SimpleAPI.Framework\obj\Debug\netcoreapp3.1\SimpleAPI.Framework.AssemblyInfoInputs.cache
+C:\Users\felip\source\repos\SimpleAPI\SimpleAPI.Framework\obj\Debug\netcoreapp3.1\SimpleAPI.Framework.AssemblyInfo.cs
+C:\Users\felip\source\repos\SimpleAPI\SimpleAPI.Framework\obj\Debug\netcoreapp3.1\SimpleAPI.Framework.dll
+C:\Users\felip\source\repos\SimpleAPI\SimpleAPI.Framework\obj\Debug\netcoreapp3.1\SimpleAPI.Framework.pdb
+C:\Users\felip\source\repos\SimpleAPI\SimpleAPI.Framework\obj\Debug\netcoreapp3.1\SimpleAPI.Framework.csproj.CoreCompileInputs.cache

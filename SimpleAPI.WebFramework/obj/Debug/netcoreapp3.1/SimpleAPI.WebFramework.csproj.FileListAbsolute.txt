@@ -1,0 +1,16 @@
+C:\Users\felip\source\repos\SimpleAPI\SimpleAPI.WebFramework\obj\Debug\netcoreapp3.1\SimpleAPI.WebFramework.csprojAssemblyReference.cache
+C:\Users\felip\source\repos\SimpleAPI\SimpleAPI.WebFramework\obj\Debug\netcoreapp3.1\SimpleAPI.WebFramework.AssemblyInfoInputs.cache
+C:\Users\felip\source\repos\SimpleAPI\SimpleAPI.WebFramework\obj\Debug\netcoreapp3.1\SimpleAPI.WebFramework.AssemblyInfo.cs
+C:\Users\felip\source\repos\SimpleAPI\SimpleAPI.WebFramework\obj\Debug\netcoreapp3.1\SimpleAPI.WebFramework.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\SimpleAPI\SimpleAPI.WebFramework\bin\Debug\netcoreapp3.1\SimpleAPI.WebFramework.deps.json
+C:\Users\felip\source\repos\SimpleAPI\SimpleAPI.WebFramework\bin\Debug\netcoreapp3.1\SimpleAPI.WebFramework.dll
+C:\Users\felip\source\repos\SimpleAPI\SimpleAPI.WebFramework\bin\Debug\netcoreapp3.1\SimpleAPI.WebFramework.pdb
+C:\Users\felip\source\repos\SimpleAPI\SimpleAPI.WebFramework\bin\Debug\netcoreapp3.1\SimpleAPI.Framework.dll
+C:\Users\felip\source\repos\SimpleAPI\SimpleAPI.WebFramework\bin\Debug\netcoreapp3.1\SimpleAPI.Framework.pdb
+C:\Users\felip\source\repos\SimpleAPI\SimpleAPI.WebFramework\obj\Debug\netcoreapp3.1\SimpleAPI.WebFramework.RazorTargetAssemblyInfo.cache
+C:\Users\felip\source\repos\SimpleAPI\SimpleAPI.WebFramework\obj\Debug\netcoreapp3.1\SimpleAPI.WebFramework.csproj.CopyComplete
+C:\Users\felip\source\repos\SimpleAPI\SimpleAPI.WebFramework\obj\Debug\netcoreapp3.1\staticwebassets\SimpleAPI.WebFramework.StaticWebAssets.Manifest.cache
+C:\Users\felip\source\repos\SimpleAPI\SimpleAPI.WebFramework\obj\Debug\netcoreapp3.1\staticwebassets\SimpleAPI.WebFramework.StaticWebAssets.xml
+C:\Users\felip\source\repos\SimpleAPI\SimpleAPI.WebFramework\obj\Debug\netcoreapp3.1\SimpleAPI.WebFramework.dll
+C:\Users\felip\source\repos\SimpleAPI\SimpleAPI.WebFramework\obj\Debug\netcoreapp3.1\SimpleAPI.WebFramework.pdb
+C:\Users\felip\source\repos\SimpleAPI\SimpleAPI.WebFramework\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
